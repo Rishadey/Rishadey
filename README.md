@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Rishadey
-- 👀 I’m interested in Web designing nd main UI/UX
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Web Development, Web designing and Data analysing.
 
 <!---
 Rishadey/Rishadey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
